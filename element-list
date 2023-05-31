@@ -1,0 +1,8 @@
+com.dawes
+com.dawes.controlador
+com.dawes.modelo
+com.dawes.repositiorio
+com.dawes.seguridad
+com.dawes.servicios
+com.dawes.serviciosImpl
+com.dawes.ws
